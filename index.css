@@ -2,10 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('86_20240909161806.png'); /* ”wŒi‰æ‘œ‚ğw’è */
-    background-size: cover; /* ‰æ‘œ‚ª‰æ–Ê‘S‘Ì‚ÉƒtƒBƒbƒg‚·‚é‚æ‚¤‚É’²® */
-    background-position: center; /* ‰æ‘œ‚Ì’†‰›‚ğ•\¦ */
-    background-attachment: fixed; /* ƒy[ƒW‚ğƒXƒNƒ[ƒ‹‚µ‚Ä‚à”wŒi‚ªŒÅ’è‚³‚ê‚é */
+    background-image: url('86_20240909161806.png'); /* èƒŒæ™¯ç”»åƒã‚’æŒ‡å®š */
+    background-size: cover; /* ç”»åƒãŒç”»é¢å…¨ä½“ã«ãƒ•ã‚£ãƒƒãƒˆã™ã‚‹ã‚ˆã†ã«èª¿æ•´ */
+    background-position: center; /* ç”»åƒã®ä¸­å¤®ã‚’è¡¨ç¤º */
+    background-attachment: fixed; /* ãƒšãƒ¼ã‚¸ã‚’ã‚¹ã‚¯ãƒ­ãƒ¼ãƒ«ã—ã¦ã‚‚èƒŒæ™¯ãŒå›ºå®šã•ã‚Œã‚‹ */
 }
 .container {
     margin: 20px;
